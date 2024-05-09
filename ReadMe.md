@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Anime Streaming WebApp using MERN.<br>I'm currently learning about AI and NLP.<br>I'm interested in help with MERN and AI.<br>Fun Fact : I am creative. 
+I'm currently working on Machine Learning and Deep Learning models.<br>I'm currently learning about AI and NLP.<br>I'm interested in help with MERN and AI.<br>Fun Fact : I am creative. 
 
 
 ## 🌐 Socials:
